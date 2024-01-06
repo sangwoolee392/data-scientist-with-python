@@ -30,13 +30,13 @@
 
 |  @again4you | @juseful | @Juyounge-e | @petanerd| @sangwoolee392 | @wooksong | @Yennyx |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/73723c6abbe22d0b28800c0f8b897af01f2ba411) |  |[✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/ec5bc0eb42d81d519380ae06488065fa5bc5b430) | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/4ee1a0489e88f9280616cf250f6fdf371d4bead8) |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/afd38d0fa35d53bba4f7eb1335e8216f15fbe813) |  |
+| [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/73723c6abbe22d0b28800c0f8b897af01f2ba411) |  |[✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/ec5bc0eb42d81d519380ae06488065fa5bc5b430) | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/4ee1a0489e88f9280616cf250f6fdf371d4bead8) | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/e55b8efa0fb35faa3095c74b0481be715598b443) | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/afd38d0fa35d53bba4f7eb1335e8216f15fbe813) |  |
 
 #### 2. [Intermediate Python](https://www.datacamp.com/courses/intermediate-python)
 
 |  @again4you | @juseful | @Juyounge-e | @petanerd| @sangwoolee392 | @wooksong | @Yennyx |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/73723c6abbe22d0b28800c0f8b897af01f2ba411) |  |  |  |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/0e33dd4eba55a8b04c604c507bd4b186202ca24b) |  |
+| [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/73723c6abbe22d0b28800c0f8b897af01f2ba411) |  |  |  | [✅](https://app.datacamp.com/learn/courses/intermediate-python) | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/0e33dd4eba55a8b04c604c507bd4b186202ca24b) |  |
 
 #### 3. [Project: Investigating Netflix Movies](https://www.datacamp.com/projects/1674)
 
